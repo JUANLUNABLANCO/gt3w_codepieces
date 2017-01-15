@@ -2,11 +2,3 @@
 *   @author     : gotth3way.api@gmail.com
 *   @description: ejemplo sencillo de hola mundo, en el lenguaje javascript
 */
-
-//comandos git
-
-> git init                                                                      //inicializa un repositorio local
-> git add .                                                                     //añade al index todos los archivos que han sido modificados
-> git commit -m "mensaje"                                                       //añade del index al head todos los archivos modificados
-> git remote add origin git@github.com:JUANLUNABLANCO/gt3w_codepieces.git       //conecta y crea por primera vez el repositorio remoto con el origen, si estaba creado no lo hagas
-> git push origin master                                                        //pasa del master del origen es decir el head al master del remoto todo
