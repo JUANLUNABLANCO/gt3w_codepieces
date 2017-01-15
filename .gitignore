@@ -1,0 +1,13 @@
+# git info #
+###################
+git-commands.txt
+
+# IDE files #
+#############
+nbproject
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+composer.lock
