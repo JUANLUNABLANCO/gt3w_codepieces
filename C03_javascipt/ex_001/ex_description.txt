@@ -2,3 +2,8 @@
 *   @author     : gotth3way.api@gmail.com
 *   @description: ejemplo sencillo de hola mundo, en el lenguaje javascript
 */
+
+o haces una sub-app con el stack mean, para accesos desde app, a ejemplos ejecutables
+pero no puedes mostrar codigo  con urls.
+
+De momento lo dejamos aquí vamos aprobar con liveweave o cloud9 u otros.
